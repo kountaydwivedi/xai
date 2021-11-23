@@ -1,5 +1,4 @@
-# xai
-Explainable AI.
+# xai : Explainable AI
 ---
 Source of the dataset:
 
