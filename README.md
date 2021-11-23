@@ -1,5 +1,6 @@
 # xai
-Explainable AI. <br>
+Explainable AI.
+---
 Source of the dataset:
 
 Stroke prediction:
